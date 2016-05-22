@@ -5,3 +5,4 @@
 - Audio
 - Login
 - List of words
+- And yup, it works on Android also.
